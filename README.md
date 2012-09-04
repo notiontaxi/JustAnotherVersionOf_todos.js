@@ -1,4 +1,4 @@
-Todo.js written in CoffeeScript + using backbone.js
+Todos.js written in CoffeeScript + using backbone.js
 -----------------------------
 
 This is a restructured and translated version of [todos.js](https://github.com/jstrimpel/backbone) written by [Jason Strimpel](https://github.com/jstrimpel)
