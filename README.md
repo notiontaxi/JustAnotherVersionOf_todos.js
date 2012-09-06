@@ -1,4 +1,4 @@
-Todos.js written in CoffeeScript + using backbone.js
+[Todos.js](http://notiontaxi.github.com/JustAnotherVersionOf_todos.js/) written in CoffeeScript + using backbone.js and require.js
 -----------------------------
 
 This is a restructured and translated version of [todos.js](https://github.com/jstrimpel/backbone) written by [Jason Strimpel](https://github.com/jstrimpel)
