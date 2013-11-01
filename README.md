@@ -1,9 +1,9 @@
-[Todos.js](http://notiontaxi.github.com/JustAnotherVersionOf_todos.js/) written in CoffeeScript + using backbone.js and require.js
+[Todos.js](http://notiontaxi.github.io/todo/) written in CoffeeScript + using backbone.js and require.js
 -----------------------------
 
 This is a restructured and translated version of [todos.js](https://github.com/jstrimpel/backbone) written by [Jason Strimpel](https://github.com/jstrimpel)
 
-[Original version](http://documentcloud.github.com/backbone/examples/todos/index.html) was written by [Jérôme Gravel-Niquet](http://jgn.me/) 
+[Original version](http://documentcloud.github.com/backbone/examples/todos/index.html) was written by [Jï¿½rï¿½me Gravel-Niquet](http://jgn.me/) 
 
 
 ### Tags
@@ -23,7 +23,7 @@ This is a restructured and translated version of [todos.js](https://github.com/j
 ###Quotes
 
 * Thanks to [Jason Strimpel](https://github.com/jstrimpel) for [this](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) tutorial
-* Thanks to [Jérôme Gravel-Niquet](http://jgn.me/) for the idea
+* Thanks to [Jï¿½rï¿½me Gravel-Niquet](http://jgn.me/) for the idea
 
 
 
