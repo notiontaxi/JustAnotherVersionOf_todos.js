@@ -3,7 +3,7 @@
 
 This is a restructured and translated version of [todos.js](https://github.com/jstrimpel/backbone) written by [Jason Strimpel](https://github.com/jstrimpel)
 
-[Original version](http://documentcloud.github.com/backbone/examples/todos/index.html) was written by [J�r�me Gravel-Niquet](http://jgn.me/) 
+[Original version](http://documentcloud.github.com/backbone/examples/todos/index.html) was written by [Jerome Gravel-Niquet](http://jgn.me/) 
 
 
 ### Tags
@@ -23,11 +23,7 @@ This is a restructured and translated version of [todos.js](https://github.com/j
 ###Quotes
 
 * Thanks to [Jason Strimpel](https://github.com/jstrimpel) for [this](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) tutorial
-* Thanks to [J�r�me Gravel-Niquet](http://jgn.me/) for the idea
-
-
-
-Have fun :)
+* Thanks to [Jerome Gravel-Niquet](http://jgn.me/) for the idea
 
 
 
